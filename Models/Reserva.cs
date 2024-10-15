@@ -1,4 +1,4 @@
-namespace DesafioProjetoHospedagem.Models
+/*namespace DesafioProjetoHospedagem.Models
 {
     public class Reserva
     {
@@ -51,3 +51,4 @@ namespace DesafioProjetoHospedagem.Models
         }
     }
 }
+*/
